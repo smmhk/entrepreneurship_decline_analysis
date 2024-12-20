@@ -18,6 +18,5 @@
 - **File Format**: `.twb` (Tableau Workbook) 📂
 
 ---
-## My Project
-
-You can view or download the PDF from [here](https://github.com/).
+## 📋 My Project
+You can view [![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/username/repository_name/blob/main/document.pdf)
